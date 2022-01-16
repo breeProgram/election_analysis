@@ -11,10 +11,10 @@ The assignment was to assist Seth and Tom by writing a Python script to run an e
   - Denver had 82.8% (306,055) of the votes casted
   - Arapahoe had 6.7% (24,801) of the votes casted
 - Denver had the highest voter turnout of the 3 counties by at least 70%
-Candidate vote breakdown
-Charles Casper Stockham had 23.0% (85,213) votes casted
-Diana DeGette had 73.8% (272,892) votes casted
-Raymon Anthony Doane had 3.1% (11,606) votes casted
+- Candidate vote breakdown
+  - Charles Casper Stockham had 23.0% (85,213) votes casted
+  - Diana DeGette had 73.8% (272,892) votes casted
+  - Raymon Anthony Doane had 3.1% (11,606) votes casted
 - Diana DeGette won the election with the most votes casted for them
 ## Audit Summary
 This script was written to allow adjustments, which helped afterward when the election commission requested analysis on votes per county. The original script was written to allow for easy changes if the election commission are looking to track other information or if the order the data is organized changes
