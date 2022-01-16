@@ -5,17 +5,17 @@ The assignment was to assist Seth and Tom by writing a Python script to run an e
 ![Election_Output](https://user-images.githubusercontent.com/56700719/149681575-5bd414d7-961b-4c5e-9bb3-c4953bde38ec.JPG)
 
 ## Election Analysis
-- •	There was a total of 369,711 votes casted
-- •	County vote breakdown
-o	Jefferson had 10.5% (38,855) of the votes casted
-o	Denver had 82.8% (306,055) of the votes casted
-o	Arapahoe had 6.7% (24,801) of the votes casted
-•	Denver had the highest voter turnout of the 3 counties by at least 70%
-•	Candidate vote breakdown
-o	Charles Casper Stockham had 23.0% (85,213) votes casted
-o	Diana DeGette had 73.8% (272,892) votes casted
-o	Raymon Anthony Doane had 3.1% (11,606) votes casted
-•	Diana DeGette won the election with the most votes casted for them
+- There was a total of 369,711 votes casted
+- County vote breakdown
+  - Jefferson had 10.5% (38,855) of the votes casted
+  - Denver had 82.8% (306,055) of the votes casted
+  - Arapahoe had 6.7% (24,801) of the votes casted
+- Denver had the highest voter turnout of the 3 counties by at least 70%
+Candidate vote breakdown
+Charles Casper Stockham had 23.0% (85,213) votes casted
+Diana DeGette had 73.8% (272,892) votes casted
+Raymon Anthony Doane had 3.1% (11,606) votes casted
+- Diana DeGette won the election with the most votes casted for them
 ## Audit Summary
 This script was written to allow adjustments, which helped afterward when the election commission requested analysis on votes per county. The original script was written to allow for easy changes if the election commission are looking to track other information or if the order the data is organized changes
 ![Election_Data_Order](https://user-images.githubusercontent.com/56700719/149681596-8700c325-d278-4c1e-98c0-18a50fa4f90e.JPG)
